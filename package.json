@@ -1,0 +1,56 @@
+{
+	"name": "eslint-config-xo-flow",
+	"version": "0.0.0",
+	"description": "ESLint shareable config for Flow to be used with eslint-config-xo",
+	"license": "MIT",
+	"repository": "xojs/eslint-config-xo-flow",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"flow",
+		"eslintconfig",
+		"xo",
+		"code",
+		"quality",
+		"style",
+		"lint",
+		"linter",
+		"jscs",
+		"jshint",
+		"jslint",
+		"eslint",
+		"validate",
+		"standard",
+		"strict",
+		"check",
+		"checker",
+		"verify",
+		"enforce",
+		"hint",
+		"simple"
+	],
+	"devDependencies": {
+		"ava": "*",
+		"babel-eslint": "^8.2.3",
+		"eslint": "^4.10.0",
+		"eslint-plugin-flowtype": "^2.48.0",
+		"temp-write": "^3.1.0"
+	},
+	"peerDependencies": {
+		"babel-eslint": ">=8.2.3",
+		"eslint": ">=4.0.0",
+		"eslint-plugin-flowtype": ">=2.48.0"
+	}
+}
