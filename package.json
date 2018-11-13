@@ -42,15 +42,15 @@
 		"simple"
 	],
 	"devDependencies": {
-		"ava": "*",
-		"babel-eslint": "^8.2.3",
-		"eslint": "^4.10.0",
-		"eslint-plugin-flowtype": "^2.48.0",
+		"ava": "^0.25.0",
+		"babel-eslint": "^10.0.1",
+		"eslint": "^5.9.0",
+		"eslint-plugin-flowtype": "^3.2.0",
 		"temp-write": "^3.1.0"
 	},
 	"peerDependencies": {
-		"babel-eslint": ">=8.2.3",
-		"eslint": ">=4.0.0",
-		"eslint-plugin-flowtype": ">=2.48.0"
+		"babel-eslint": ">=10.0.1",
+		"eslint": ">=5.9.0",
+		"eslint-plugin-flowtype": ">=3.2.0"
 	}
 }

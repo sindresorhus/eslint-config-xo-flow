@@ -1,6 +1,6 @@
 # eslint-config-xo-flow [![Build Status](https://travis-ci.org/xojs/eslint-config-xo-flow.svg?branch=master)](https://travis-ci.org/xojs/eslint-config-xo-flow)
 
-> ESLint [shareable config](http://eslint.org/docs/developer-guide/shareable-configs.html) for [Flow](https://flow.org) to be used with [eslint-config-xo](https://github.com/xojs/eslint-config-xo)
+> ESLint [shareable config](https://eslint.org/docs/developer-guide/shareable-configs.html) for [Flow](https://flow.org) to be used with [eslint-config-xo](https://github.com/xojs/eslint-config-xo)
 
 
 ## Install
@@ -18,7 +18,10 @@ Add some ESLint config to your package.json:
 {
 	"name": "my-awesome-project",
 	"eslintConfig": {
-		"extends": ["xo", "xo-flow"]
+		"extends": [
+			"xo",
+			"xo-flow"
+		]
 	}
 }
 ```
@@ -27,7 +30,10 @@ Or to .eslintrc:
 
 ```json
 {
-	"extends": ["xo", "xo-flow"]
+	"extends": [
+		"xo",
+		"xo-flow"
+	]
 }
 ```
 
