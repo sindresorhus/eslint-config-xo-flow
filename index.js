@@ -48,6 +48,7 @@ module.exports = {
 			'error',
 			'comma'
 		],
+		'flowtype/require-indexer-name': 'error',
 		'flowtype/require-parameter-type': 'error',
 		'flowtype/require-return-type': 'error',
 		'flowtype/require-types-at-top': [
