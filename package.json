@@ -4,13 +4,14 @@
 	"description": "ESLint shareable config for Flow to be used with eslint-config-xo",
 	"license": "MIT",
 	"repository": "xojs/eslint-config-xo-flow",
+	"funding": "https://github.com/sponsors/sindresorhus",
 	"author": {
 		"name": "Sindre Sorhus",
 		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"url": "https://sindresorhus.com"
 	},
 	"engines": {
-		"node": ">=6"
+		"node": ">=10"
 	},
 	"scripts": {
 		"test": "ava"
@@ -44,13 +45,13 @@
 	"devDependencies": {
 		"ava": "^0.25.0",
 		"babel-eslint": "^10.0.1",
-		"eslint": "^5.9.0",
-		"eslint-plugin-flowtype": "^3.2.0",
-		"temp-write": "^3.1.0"
+		"eslint": "^6.8.0",
+		"eslint-plugin-flowtype": "^4.6.0",
+		"temp-write": "^4.0.0"
 	},
 	"peerDependencies": {
 		"babel-eslint": ">=10.0.1",
-		"eslint": ">=5.9.0",
-		"eslint-plugin-flowtype": ">=3.2.0"
+		"eslint": ">=6.8.0",
+		"eslint-plugin-flowtype": ">=4.6.0"
 	}
 }

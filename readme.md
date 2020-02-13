@@ -2,13 +2,11 @@
 
 > ESLint [shareable config](https://eslint.org/docs/developer-guide/shareable-configs.html) for [Flow](https://flow.org) to be used with [eslint-config-xo](https://github.com/xojs/eslint-config-xo)
 
-
 ## Install
 
 ```
 $ npm install --save-dev eslint-config-xo eslint-config-xo-flow babel-eslint eslint-plugin-flowtype
 ```
-
 
 ## Usage
 
@@ -37,7 +35,6 @@ Or to .eslintrc:
 }
 ```
 
-
 ## Tip
 
 ### Use with XO
@@ -55,13 +52,7 @@ $ npm install --save-dev eslint-config-xo-flow babel-eslint eslint-plugin-flowty
 }
 ```
 
-
 ## Related
 
 - [eslint-config-xo](https://github.com/xojs/eslint-config-xo) - ESLint shareable config for XO
 - [XO](https://github.com/xojs/xo)
-
-
-## License
-
-MIT © [Sindre Sorhus](https://sindresorhus.com)
