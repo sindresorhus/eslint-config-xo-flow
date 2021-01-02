@@ -1,4 +1,4 @@
-# eslint-config-xo-flow [![Build Status](https://travis-ci.org/xojs/eslint-config-xo-flow.svg?branch=master)](https://travis-ci.org/xojs/eslint-config-xo-flow)
+# eslint-config-xo-flow
 
 > ESLint [shareable config](https://eslint.org/docs/developer-guide/shareable-configs.html) for [Flow](https://flow.org) to be used with [eslint-config-xo](https://github.com/xojs/eslint-config-xo)
 
