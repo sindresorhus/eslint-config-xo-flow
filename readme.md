@@ -1,3 +1,7 @@
+This package is deprecated as it's clear that Flow has no future outside of Facebook.
+
+---
+
 # eslint-config-xo-flow
 
 > ESLint [shareable config](https://eslint.org/docs/developer-guide/shareable-configs.html) for [Flow](https://flow.org) to be used with [eslint-config-xo](https://github.com/xojs/eslint-config-xo)
